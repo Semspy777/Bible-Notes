@@ -6,4 +6,4 @@
 
 ### Overig
 
-### Praktisch georienteerde conclusie
+### Praktisch georiënteerde conclusie
