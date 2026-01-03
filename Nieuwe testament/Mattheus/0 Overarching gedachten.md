@@ -5,3 +5,5 @@
 ### Motieven 
 
 ### Overig
+
+### Praktisch georienteerde conclusie
